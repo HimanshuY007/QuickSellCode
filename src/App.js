@@ -7,7 +7,7 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(1);
-  const [flag, setFlag] = useState(true);
+  const [flag, setFlag] = useState(false);
   // console.log(count);
 
   //Fuction to change values of counter on clicking buttons
